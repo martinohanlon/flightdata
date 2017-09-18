@@ -2,7 +2,7 @@ from urllib.request import urlopen
 import json
 from time import sleep
 
-DUMP1090DATAURL = "http://localhost:8080/data.json"
+DUMP1090DATAURL = "http://localhost:8080/dump1090-fa/data/aircraft.json"
 
 class FlightData():
     def __init__(self, data_url = DUMP1090DATAURL):

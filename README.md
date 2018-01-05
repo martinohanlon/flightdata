@@ -1,16 +1,16 @@
-#Piaware Flight Data Reader
-##Martin O'Hanlon (martin@ohanlonweb.com)
-##http://www.stuffaboutcode.com
+# Piaware Flight Data Reader
+## Martin O'Hanlon (martin@ohanlonweb.com)
+## http://www.stuffaboutcode.com
 
-##Description
+## Description
 A python 3 module to read flight data from the PiAware solution. 
 
 [http://www.stuffaboutcode.com/2015/09/read-piaware-flight-data-with-python.html](http://www.stuffaboutcode.com/2015/09/read-piaware-flight-data-with-python.html)
 
-##Structure
+## Structure
 * flightdata.py - the flightdata python module
 
-##Usage
+## Usage
 
 	from flightdata import FlightData
 	from time import sleep
@@ -41,5 +41,5 @@ A python 3 module to read flight data from the PiAware solution.
 	#refresh the flight data
 	myflights.refresh()
 
-##Version history
+## Version history
 * 0.1 - Initial stable version

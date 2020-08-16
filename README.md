@@ -1,3 +1,5 @@
+**This repository and project has now been archived and is no longer supported. The code will remain available for reference and information.**
+
 # Piaware Flight Data Reader
 ## Martin O'Hanlon (martin@ohanlonweb.com)
 ## http://www.stuffaboutcode.com
